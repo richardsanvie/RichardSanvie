@@ -29,4 +29,6 @@ Algumas das linguagens/frameworks que estou familiarizado:
         <img align="center" alt="Grunt" src="https://img.shields.io/badge/-Grunt-FBA919?logo=grunt&logoColor=white&style=for-the-badge">
         <img align="center" alt="Parcel" src="https://img.shields.io/badge/-Parcel-5E8B3E?logo=parcel&logoColor=white&style=for-the-badge">
         <img align="center" alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge">
+        <img align="center" alt="Ajax" src="https://img.shields.io/badge/-Ajax-FF5722?style=for-the-badge&logo=ajax&logoColor=white">
+
     </div>
