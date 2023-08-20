@@ -9,7 +9,8 @@ Aqui estão alguns dos meus projetos mais interessantes:
 - [EstudyTimer](https://#): Um cronômetro inteligente baseado no Método Kaizen para otimizar seus estudos de concursos. Aumente sua produtividade acadêmica com o EstudyTimer! **1%** melhor a cada dia.
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=richardsanvie&show_icons=true&theme=dracula)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardsanvie&layout=compact)
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=richardsanvie&show_icons=true&theme=dark)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardsanvie&layout=compact&theme=dark
+)
 
 ## Ferramentas e Tecnologias Utilizadas
 Algumas das linguagens/frameworks que estou familiarizado:
@@ -30,5 +31,4 @@ Algumas das linguagens/frameworks que estou familiarizado:
         <img align="center" alt="Parcel" src="https://img.shields.io/badge/-Parcel-5E8B3E?logo=parcel&logoColor=white&style=for-the-badge">
         <img align="center" alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge">
         <img align="center" alt="Ajax" src="https://img.shields.io/badge/-Ajax-FF5722?style=for-the-badge&logo=ajax&logoColor=white">
-
     </div>
