@@ -13,23 +13,44 @@ Aqui estão alguns dos meus projetos mais interessantes:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=richardsanvie&show_icons=true&theme=dark)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardsanvie&layout=compact&theme=dark
 )
 
+
+
+## Tecnologias Favoritas
+<table>
+  <tbody><tr>
+    <td align="center">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/442c452cb73752bb1914ce03fce2017056d651a2099696b8594ddf5ccc74825e/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6a6176617363726970742f6a6176617363726970742d6f726967696e616c2e737667" width="50" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="max-width: 100%;"></a>
+        <p dir="auto">Javascript</p>
+    </td>
+    <td align="center">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667"><img src="https://camo.githubusercontent.com/27d0b117da00485c56d69aef0fa310a3f8a07abecc8aa15fa38c8b78526c60ac/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f72656163742f72656163742d6f726967696e616c2e737667" width="50" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="max-width: 100%;"></a>
+        <p dir="auto">React</p>
+    </td>
+    <td align="center">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/richardsanvie/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" width="50" data-canonical-src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/typescript/typescript-original.svg" style="max-width: 100%;"></a>
+        <p dir="auto">Typescript</p>
+    </td>
+    <td align="center">
+       <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/richardsanvie/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/bootstrap/bootstrap-original.svg" width="50" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="max-width: 100%;"></a>
+        <p dir="auto">Bootstrap</p>
+    </td>
+    <td align="center">
+       <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/richardsanvie/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/sass/sass-original.svg" width="50" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" style="max-width: 100%;"></a>
+        <p dir="auto">Sass</p>
+    </td>
+    <td align="center">
+        <a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/richardsanvie/"><img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/gulp/gulp-plain.svg" width="50" data-canonical-src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg" style="max-width: 100%;"></a>
+        <p dir="auto">Gulp</p>
+    </td>
+  </tr>
+</tbody>
+</table>
+
+
+
 ## Ferramentas e Tecnologias Utilizadas
 Algumas das linguagens/frameworks que estou familiarizado:
-    <div style="display: inline_block">
-        <img align="center" alt="PHP" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
-        <img align="center" alt="Javascript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
-        <img align="center" alt="Bootstrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
-        <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-        <img align="center" alt="Css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"> 
-        <img align="center" alt="Gulp" src="https://img.shields.io/badge/-Gulp-CF4647?logo=gulp&logoColor=white&style=for-the-badge">
-        <img align="center" alt="Less" src="https://img.shields.io/badge/-Less-1D365D?logo=less&logoColor=white&style=for-the-badge">
-        <img align="center" alt="BEM" src="https://img.shields.io/badge/-BEM-000000?logo=bem&logoColor=white&style=for-the-badge">
-        <img align="center" alt="jQuery" src="https://img.shields.io/badge/-jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge">
-        <img align="center" alt="Git" src="https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=for-the-badge">
-        <img align="center" alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge">
-        <img align="center" alt="Less" src="https://img.shields.io/badge/-Less-1D365D?logo=less&logoColor=white&style=for-the-badge">
-        <img align="center" alt="Grunt" src="https://img.shields.io/badge/-Grunt-FBA919?logo=grunt&logoColor=white&style=for-the-badge">
-        <img align="center" alt="Parcel" src="https://img.shields.io/badge/-Parcel-5E8B3E?logo=parcel&logoColor=white&style=for-the-badge">
-        <img align="center" alt="Figma" src="https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge">
-        <img align="center" alt="Ajax" src="https://img.shields.io/badge/-Ajax-FF5722?style=for-the-badge&logo=ajax&logoColor=white">
-    </div>
+<blockquote>
+<p dir="auto">HTML5 | CSS | SASS | LESS | Bootstrap | SMACSS | DOM | JavaScript | JQuery | Vue.js | Git | GitHub | Node.js | PHP | Wordpress | API | ES6+ | NPM | Canva | Gulp.js | Grunt.js | Figma | Dev Tools | SEO | Ajax | Parcel | Babel | Typescript | Vite | React.js</p>
+</blockquote>
+
