@@ -10,7 +10,7 @@ Aqui estão alguns dos meus projetos mais interessantes:
 - [EstudyTimer](https://github.com/richardsanvie): Um cronômetro inteligente baseado no Método Kaizen para otimizar seus estudos de concursos. Aumente sua produtividade acadêmica com o EstudyTimer! **1%** melhor a cada dia.
 
 ## Estatísticas do GitHub
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=richardsanvie&show_icons=true&theme=dark)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardsanvie&layout=compact&theme=dark
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=richardsanvie&show_icons=true&theme=dark)     ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=richardsanvie&layout=compact&theme=dark&hide=html,css
 )
 
 
