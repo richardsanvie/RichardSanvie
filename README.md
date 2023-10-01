@@ -58,3 +58,6 @@ Algumas das linguagens/frameworks que estou familiarizado:
 <p dir="auto">HTML5 | CSS | SASS | LESS | Bootstrap | SMACSS | DOM | JavaScript | JQuery | Vue.js | Git | GitHub | Node.js | PHP | Wordpress | API | ES6+ | NPM | Canva | Gulp.js | Grunt.js | Figma | Dev Tools | SEO | Ajax | Parcel | Babel | Typescript | Vite | SQL | React.js | JSX</p>
 </blockquote>
 
+brave-ledger-verification=c112737e7b8372190522183fddb95a20b6d8089a07273d2f96d7e38f3ddbaefe
+TXT
+
