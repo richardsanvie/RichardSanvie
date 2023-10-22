@@ -6,7 +6,7 @@
 ## Projetos
 Aqui estão alguns dos meus projetos mais interessantes:
 
-- [CriandoLendas](github.com/richardsanvie/criandoLendas): Uma landing page otimizada para SEO, pronta para mecanismos de busca, utilizando HTML, CSS (incluindo SASS), e jQuery, e automatizada usando Gulp.js.
+- [MixologyCertification](github.com/richardsanvie/criandoLendas): Uma landing page otimizada para SEO, pronta para mecanismos de busca, utilizando HTML, CSS (incluindo SASS), e jQuery, e automatizada usando Gulp.js.
 
 - [EstudyTimer](https://github.com/richardsanvie): Um cronômetro inteligente baseado no Método Kaizen para otimizar seus estudos de concursos. Aumente sua produtividade acadêmica com o EstudyTimer! **1%** melhor a cada dia.
 
