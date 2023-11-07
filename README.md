@@ -56,6 +56,6 @@ Aqui estão alguns dos meus projetos mais interessantes:
 ## Ferramentas e Tecnologias Utilizadas
 Algumas das linguagens/frameworks que estou familiarizado:
 <blockquote>
-<p dir="auto">HTML | CSS | SASS | LESS | Bootstrap | SMACSS | DOM | JavaScript | JQuery | Vue | Git | GitHub | Node | PHP | Wordpress | API | ES6 | NPM | Canva | Gulp | Grunt.js | Figma | Dev Tools | SEO | Ajax | Parcel | Babel | Typescript | Vite | SQL | React.js | JSX | Jest | Eslint | Prettier | Styled Components | Redux</p>
+<p dir="auto">HTML | CSS | SASS | LESS | Bootstrap | SMACSS | DOM | JavaScript | JQuery | Vue | Git | GitHub | Node | PHP | Wordpress | API | ES6 | NPM | Canva | Gulp | Grunt.js | Figma | Dev Tools | SEO | Ajax | Parcel | Babel | Typescript | Vite | SQL | React.js | JSX | Jest | Eslint | Prettier | Styled Components | Redux | Editorconfig</p>
 </blockquote>
 
